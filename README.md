@@ -1,5 +1,5 @@
 ## **Spectra CLI**
-A simple launcher, made for complete fun, Not intended for production use, Maybe for fun.
+A simple launcher, made for complete fun, Not intended for production use.
 
 <hr />
 
