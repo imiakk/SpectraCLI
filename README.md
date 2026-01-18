@@ -1,6 +1,8 @@
 ## **Spectra CLI**
 A simple launcher, made for complete fun, Not intended for production use.
 
+**UPDATES COMING SOON!**
+
 <hr />
 
 It's pretty easy to setup, Just clone the repo
